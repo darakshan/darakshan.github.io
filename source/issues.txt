@@ -1,0 +1,33 @@
++ Essays menu leads to index page titled "Posts" (but Posts appears nowhere in folder tree)
++ Have to title posts folder "post" to get it to work in menu
++ Travel section gets no index page - nada zip empty not even a 404
++ borrowed fluidimage/pure from blackburn
+
+- fill in About and 
+- put all posts into form
+- insert all images
+- turn off tags and topics (or use them!)
+
+- can't stack 3 x 1/3 column images or 2 x 1/2 height images, they are just slightly too big
+- how to center wide images in a narrow pure column?
+- image= property on posts are relative to static/images/, pure directives are relative to static/
+- so pure images can be located with content, but featured images cannot (unless you put an images folder there!)
+- how to flow text around pure images
+- Would like to be able to click images and have them show in full screen
+- hugo ought to be able to put "public" in ..
+
+Blackburn
+  + nice menus
+  + responsive menus
+  + users yahoo's pure: nice image formatting
+  - no featured images
+  - doesn't handle multiple content folders
+  
+Hugo Theme Robust Hacked
+  + nice grid summary of posts (but only two columns because of big sidebar)
+  + added PURE for images
+  - poor menus, not responsive and ugly
+  - simple featured images via image= metadata
+  
+Shall I: search for more themes, or merge these?
+
