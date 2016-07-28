@@ -3,14 +3,15 @@ baseurl = "http://darakshan.com/"
 publishdir = ".."
 languageCode = "en-us"
 title = "Darakshan's Observations"
+# theme = "blackburn"
 theme = "hugo_theme_robust_hacked"
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
 
-[indexes]
-  tag = "tags"
-  topic = "topics"
+[taxonomies]
+#   tag = "tags"
+#   topic = "topics"
 
 [params]
   # Shown in the home page
