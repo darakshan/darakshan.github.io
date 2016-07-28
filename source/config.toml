@@ -1,5 +1,5 @@
 # use https because github.io demands it
-baseurl = "https://darakshan.github.io/"
+baseurl = "https://darakshan.com/"
 publishdir = ".."
 languageCode = "en-us"
 title = "Darakshan's Observations"
