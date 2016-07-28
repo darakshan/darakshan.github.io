@@ -1,7 +1,7 @@
 +++
 date = "2016-07-26T9:50:28-07:00"
 title = "About Me"
-image = "test.jpg"
+image = "about.jpg"
 +++
 
-That's not me...!
+What can I say?

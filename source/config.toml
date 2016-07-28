@@ -2,7 +2,7 @@
 baseurl = "http://darakshan.com/"
 publishdir = ".."
 languageCode = "en-us"
-title = "Darakshan's Observations"
+title = "Darakshan's Directions"
 # theme = "blackburn"
 theme = "hugo_theme_robust_hacked"
 copyright = "&copy; 2016. All rights reserved."
@@ -47,8 +47,14 @@ paginate = 10
     identifier = "travel"
     url = "/travel/"
   [[menu.main]]
+    name = "Floetry"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 4
+    identifier = "floetry"
+    url = "/floetry/"
+  [[menu.main]]
     name = "About Me"
     pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 4
+    weight = 5
     identifier = "about"
     url = "/about/"
