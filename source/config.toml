@@ -2,7 +2,7 @@
 baseurl = "http://darakshan.com/"
 publishdir = ".."
 languageCode = "en-us"
-title = "Darakshan's Directions"
+title = "Darakshan's Direction"
 # theme = "blackburn"
 theme = "hugo_theme_robust_hacked"
 copyright = "&copy; 2016. All rights reserved."
